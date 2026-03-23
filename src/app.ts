@@ -8,7 +8,7 @@ const port: number = 3000
 // GET /
 app.get('/', (_: Request, res: Response) => {
   res.json({
-    message: 'Hello Express + TypeScript!'
+    message: 'Hello Express Jenkins All Arounder for simulator'
   })
 })
 
