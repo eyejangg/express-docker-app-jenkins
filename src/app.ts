@@ -30,8 +30,8 @@ app.get('/api/health', (_: Request, res: Response) => {
 app.get('/api/user', (_: Request, res: Response) => {
   res.json({
     id: 1,
-    name: 'Naruapon Suwanwijit',
-    email: 'naruapon@webmail.npru.ac.th'
+    name: 'Eyejang',
+    email: 'ptwptw1550@gmail.com'
   })
 })
 
